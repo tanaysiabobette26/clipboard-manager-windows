@@ -1,10 +1,10 @@
 # ClipVault — Clipboard Manager for Windows
 
-ClipVault keeps a history of everything you copy, so any earlier snippet is one click away instead of gone the moment you copy the next thing.
+Free clipboard manager for Windows - history of everything you copy
 
-## Download
+![ClipVault](screenshot.png)
 
-[Download the latest release](../../releases/latest) — portable build, no installer and no account.
+**[⬇ Download for Windows](../../releases/latest)** — free, no ads, no account, no sign-up. One small file, unzip and run.
 
 ## What it does
 
@@ -15,10 +15,21 @@ ClipVault keeps a history of everything you copy, so any earlier snippet is one 
 - Nothing leaves your PC - history stays local
 - Free and open source, no ads and no telemetry
 
+## How to use
+
+1. Open ClipVault and leave it running.
+2. Copy text as usual - every copy is kept in the list.
+3. Double-click any item, or select it and press Copy back, to put it in the clipboard again.
+4. Press Clear when you want the history gone.
+
 ## Requirements
 
-Windows 10 or 11, 64-bit. No admin rights, nothing written to the registry.
+Windows 10 or 11, 64-bit. No admin rights needed and nothing is written to the registry. It runs fine on weak, old and budget machines.
+
+## Privacy
+
+Everything happens on your PC. Nothing is uploaded, there is no telemetry, no ads and no account.
 
 ## Licence
 
-MIT. Free, no ads, no telemetry.
+MIT — free to use, free to share.
