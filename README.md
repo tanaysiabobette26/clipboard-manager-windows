@@ -1,6 +1,10 @@
-# ClipVault — a Windows clipboard history manager that remembers everything you copy
+# ClipVault — a Windows clipboard history tool that lets you recall every text you ever copied
 
-Ever hit Ctrl+C over something important, then overwrote it five minutes later with a random URL? ClipVault is a free clipboard history manager for Windows 10 and Windows 11 that catches every text copy as it happens and keeps it in a scrollable list you can pull from with a single click. No account, no sign-up, no watermark — just a tiny portable app that sits in the background and quietly builds a timeline of your copies.
+ClipVault is a free clipboard history app for Windows 10 and Windows 11 that keeps a running log of every Ctrl+C, so you can scroll back and grab anything you copied an hour ago without re-finding the source. No account, no sign-up, no watermark — just a tiny portable window that quietly records your copies and lets you search or re-paste them in one click.
+
+## Why use this as a clipboard history manager?
+
+Windows only remembers your last copy — the moment you Ctrl+C something new, the previous text is gone. ClipVault fixes that by holding a scrollable clipboard history of your past copies in a single clean column: double-click any entry to send it back to the clipboard, or Clear the whole list when you want it wiped. Everything stays local on your PC, nothing syncs anywhere, and the app runs fine on locked-down work laptops because it needs no admin rights.
 
 ## Get it
 
